@@ -43,4 +43,4 @@ CPU | i5-8250U
 
 ## 如果你需要安装教程，请访问我的博客
 
-<a href="https://www.asly.top/"> www.asly.top <a/>
+<a href="https://www.asly.top/"> 安装教程（点击进入） <a/>
