@@ -4,6 +4,8 @@
 
 修改CFG和DVMT在我的博客中有教程
 
+<a href="https://github.com/qiqco/Dell-inspiron-13-7370-Hackintosh/releases">EFI下载地址<a/>
+
 ## 配置
 CPU | i5-8250U
 ------------ | -------------
