@@ -1,9 +1,12 @@
 # Dell-inspiron-13-7370-Hackintosh
 
-# 如果你要使用这个EFI，你需要更改BIOS的Secure boot，并且修改CFG。DVMT
+# 如果你要使用这个EFI，你需要更改BIOS的Secure boot，并且修改CFG和DVMT
 
-修改CFG和DVMT在我的博客中有教程
+<a href="https://www.asly.top/archives/21/"> DVMT教程<a/>
 
+<a href="https://www.asly.top/archives/20/"> CFG教程<a/>
+  
+## 下载地址
 <a href="https://github.com/qiqco/Dell-inspiron-13-7370-Hackintosh/releases">EFI下载地址<a/>
 
 ## 配置
