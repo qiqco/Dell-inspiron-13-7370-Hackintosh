@@ -2,10 +2,6 @@
 
 # 如果你要使用这个EFI，你需要更改BIOS的Secure boot，并且修改CFG和DVMT
 
-<a href="https://www.asly.top/archives/21/"> DVMT教程<a/>
-
-<a href="https://www.asly.top/archives/20/"> CFG教程<a/>
-  
 ## 下载地址
 <a href="https://github.com/qiqco/Dell-inspiron-13-7370-Hackintosh/releases">EFI下载地址<a/>
 
@@ -49,10 +45,3 @@ CPU | i5-8250U
    耳机孔问题在Monterey出现新变化，会出现插入耳机10s后无声音的现象，在Big Sur中使用ComboJack修复耳机呈现正常。目前正在修复中~~
 
 * 读卡器未驱动（~~热启动可以使用~~）已解决,冷启动可用
-
-## 如果你有什么好的意见，请告诉我，使我更好的维护这个仓库
-邮箱：qiqco@qq.com
-
-## 如果你需要安装教程，请访问我的博客
-
-~~<a href="https://www.asly.top/"> 安装教程（点击进入） <a/>~~
